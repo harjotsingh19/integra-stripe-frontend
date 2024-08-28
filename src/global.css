@@ -1,0 +1,17 @@
+/* Remove if fonts are not used */
+@import '@fontsource/mukta/200.css';
+@import '@fontsource/mukta/300.css';
+@import '@fontsource/mukta/400.css';
+@import '@fontsource/mukta/500.css';
+@import '@fontsource/mukta/600.css';
+@import '@fontsource/mukta/700.css';
+@import '@fontsource/mukta/800.css';
+
+/* Remove if simplebar is not used */
+@import '~simplebar-react/dist/simplebar.min.css';
+
+/* Remove if slick-carousel is not used */
+@import '~slick-carousel/slick/slick.css';
+@import '~slick-carousel/slick/slick-theme.css';
+
+@import 'src/sections/payment-card-form/style.css';

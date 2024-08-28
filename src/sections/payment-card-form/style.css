@@ -1,0 +1,12 @@
+.StripeElement {
+  border: 0.063rem solid rgb(202, 202, 202) !important;
+  border-radius: 0.52rem !important;
+  padding: 1.041rem 0.875rem !important;
+}
+.StripeElement--focus {
+  border: 0.213rem solid #59AD95 !important;
+}
+
+.StripeElement--invalid {
+  border: 0.213rem solid #f04438 !important;
+}
